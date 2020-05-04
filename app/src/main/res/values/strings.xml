@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="learn_skills">Learn Skills</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="freelancing">Freelancing</string>
+    <string name="graphic_design">Graphic Design</string>
+    <string name="digital_marketing">Digital Marketing</string>
+    <string name="creative_writing">Creative Writing</string>
+    <string name="seo">SEO</string>
+    <string name="e_commerce">E Commerce</string>
+    <string name="textview">TextView</string>
+    <string name="username">Username</string>
+    <string name="background">background</string>
+</resources>
