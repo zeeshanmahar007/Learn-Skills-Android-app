@@ -5,6 +5,6 @@ Android App to Learn the following new skills
 - Digital Marketing
 
 
--creative writing
+- creative writing
 - SEO
 - E-Commerce
