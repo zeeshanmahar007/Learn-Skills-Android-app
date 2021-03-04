@@ -1,10 +1,10 @@
 # Learn Skills Android App
-Android App to Learn the following new skills such as
+Android App to Learn the following new skills
 - Freelancing
 - Graphic Design
 - Digital Marketing
 
--SEO
+
 -creative writing
 - SEO
 - E-Commerce
